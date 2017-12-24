@@ -1,0 +1,9 @@
+-r requirements.txt
+codecov
+flake8
+pysimplemodel
+pytest
+pytest-cov
+Sphinx
+twine
+wheel
