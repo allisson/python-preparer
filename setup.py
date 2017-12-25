@@ -50,7 +50,7 @@ class VersionCommand(Command):
 setup(
     name='preparer',
     version=version,
-    description='Fork of restless.prepares',
+    description='Simple way to build a new dict based on fields declaration',
     long_description=long_description,
     url='https://github.com/allisson/python-preparer',
     author='Allisson Azevedo',
