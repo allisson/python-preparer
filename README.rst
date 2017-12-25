@@ -185,6 +185,8 @@ How to use
                                'thumbnail': 'http://www.mobygames.com/images/shots/s/313908-the-x-files...'}],
         'title': 'The X-Files Game'}
 
+Check `https://github.com/allisson/python-preparer/tree/master/examples <https://github.com/allisson/python-preparer/tree/master/examples>`_ for more code examples.
+
 
 Credits
 -------
