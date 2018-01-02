@@ -1,7 +1,7 @@
 Python Preparer
 ===============
 
-|TravisCI Build Status| |Coverage Status| |Requirements Status|
+|TravisCI Build Status| |Coverage Status| |Requirements Status| |Version|
 
 ----
 
@@ -200,3 +200,5 @@ This is a fork of excellent https://github.com/toastdriven/restless/blob/master/
    :target: https://codecov.io/gh/allisson/python-preparer
 .. |Requirements Status| image:: https://requires.io/github/allisson/python-preparer/requirements.svg?branch=master
    :target: https://requires.io/github/allisson/python-preparer/requirements/?branch=master
+.. |Version| image:: https://badge.fury.io/py/preparer.svg
+    :target: https://badge.fury.io/py/preparer
