@@ -27,7 +27,7 @@ with codecs.open(os.path.join(here, 'CHANGES.rst'), encoding='utf-8') as f:
 
 install_requirements = []
 tests_requirements = [
-    'pysimplemodel',
+    'pysimplemodel==0.15.0',
     'pytest',
     'pytest-cov',
 ]

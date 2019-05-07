@@ -1,9 +1,9 @@
 -r requirements.txt
+Sphinx
 codecov
 flake8
-pysimplemodel
+pysimplemodel==0.15.0
 pytest
 pytest-cov
-Sphinx
 twine
 wheel
